@@ -1,0 +1,15 @@
+{
+    "nbparties": 13,
+    "victoires": 14,
+    "defaites": 4,
+    "egalites": 2,
+    "mainsGagnantes": "",
+    "tauxVictoire": 107.69,
+    "tempsTotal": 335,
+    "mains": {
+    "Pierre": {"jouees": 0, "victoires": 0},
+    "Papier": {"jouees": 0, "victoires": 0},
+    "Ciseaux": {"jouees": 0, "victoires": 0}
+}
+
+    }
