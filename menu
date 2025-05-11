@@ -15,10 +15,7 @@ Entrer votre choix (1-4): ");
 
     if (in_array($menuPrincipal, $expectedMenuOptions) === false) {
         echo (string)("Erreur : Tu dois mettre un chiffre entre 1 et 4.\n");
-        //[
-        //     'menuPrincipal' => $menuPrincipal,
-        //     'expectedMenuOptions' => $expectedMenuOptions
-        // ];
+       
     }
 
     // une fonction = une fonctionnalité
