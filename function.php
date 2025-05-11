@@ -6,7 +6,6 @@ $papier = 2;
 $pierre = 3;
 $retourMenu = 4;
 
-
 function choixToString(int $choix): string
 {
     return match ($choix) {
